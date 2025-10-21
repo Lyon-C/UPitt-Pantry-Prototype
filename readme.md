@@ -22,9 +22,13 @@ This is a starter template for a Discord bot that compares two shelf images (bas
    - `OPENAI_API_KEY`
    - `DISCORD_BOT_TOKEN`
    - `VISION_MODEL` (e.g. `gpt-4-vision-preview` or whatever model you have)  
-   - `DISCORD_WEBHOOK_URL` (if using webhook instead of bot)  
+   - `DISCORD_WEBHOOK_URL` (if using webhook instead of bot)
+  
+# This was vibe coded - it's utter dogshit
+
 
 3. Install dependencies:
 
    ```bash
    pip install -r requirements.txt
+
